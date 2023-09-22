@@ -1,0 +1,29 @@
+C:\Users\wblaw\source\repos\BlackJack Class Library\BlackJack Class Library\obj\Debug\BlackJack Class Library.csproj.AssemblyReference.cache
+C:\Users\wblaw\source\repos\BlackJack Class Library\BlackJack Class Library\obj\Debug\BlackJack Class Library.csproj.CoreCompileInputs.cache
+C:\Users\wblaw\source\repos\BlackJack Class Library\BlackJack Class Library\bin\Debug\BlackJack Class Library.dll
+C:\Users\wblaw\source\repos\BlackJack Class Library\BlackJack Class Library\bin\Debug\BlackJack Class Library.pdb
+C:\Users\wblaw\source\repos\BlackJack Class Library\BlackJack Class Library\obj\Debug\BlackJack Class Library.dll
+C:\Users\wblaw\source\repos\BlackJack Class Library\BlackJack Class Library\obj\Debug\BlackJack Class Library.pdb
+C:\Users\wblaw\OneDrive\Desktop\Blackjack\BlackJack Class Library\BlackJack Class Library\bin\Debug\BlackJack Class Library.dll
+C:\Users\wblaw\OneDrive\Desktop\Blackjack\BlackJack Class Library\BlackJack Class Library\bin\Debug\BlackJack Class Library.pdb
+C:\Users\wblaw\OneDrive\Desktop\Blackjack\BlackJack Class Library\BlackJack Class Library\obj\Debug\BlackJack Class Library.csproj.CoreCompileInputs.cache
+C:\Users\wblaw\OneDrive\Desktop\Blackjack\BlackJack Class Library\BlackJack Class Library\obj\Debug\BlackJack Class Library.dll
+C:\Users\wblaw\OneDrive\Desktop\Blackjack\BlackJack Class Library\BlackJack Class Library\obj\Debug\BlackJack Class Library.pdb
+C:\Users\wblaw\OneDrive\Desktop\Systems Programming\Blackjack\BlackJack Class Library\BlackJack Class Library\bin\Debug\BlackJack Class Library.dll
+C:\Users\wblaw\OneDrive\Desktop\Systems Programming\Blackjack\BlackJack Class Library\BlackJack Class Library\bin\Debug\BlackJack Class Library.pdb
+C:\Users\wblaw\OneDrive\Desktop\Systems Programming\Blackjack\BlackJack Class Library\BlackJack Class Library\obj\Debug\BlackJack Class Library.csproj.AssemblyReference.cache
+C:\Users\wblaw\OneDrive\Desktop\Systems Programming\Blackjack\BlackJack Class Library\BlackJack Class Library\obj\Debug\BlackJack Class Library.csproj.CoreCompileInputs.cache
+C:\Users\wblaw\OneDrive\Desktop\Systems Programming\Blackjack\BlackJack Class Library\BlackJack Class Library\obj\Debug\BlackJack Class Library.dll
+C:\Users\wblaw\OneDrive\Desktop\Systems Programming\Blackjack\BlackJack Class Library\BlackJack Class Library\obj\Debug\BlackJack Class Library.pdb
+C:\Users\wblaw\OneDrive\Desktop\Blake\Blackjack\BlackJack Class Library\BlackJack Class Library\bin\Debug\BlackJack Class Library.dll
+C:\Users\wblaw\OneDrive\Desktop\Blake\Blackjack\BlackJack Class Library\BlackJack Class Library\bin\Debug\BlackJack Class Library.pdb
+C:\Users\wblaw\OneDrive\Desktop\Blake\Blackjack\BlackJack Class Library\BlackJack Class Library\obj\Debug\BlackJack Class Library.csproj.AssemblyReference.cache
+C:\Users\wblaw\OneDrive\Desktop\Blake\Blackjack\BlackJack Class Library\BlackJack Class Library\obj\Debug\BlackJack Class Library.csproj.CoreCompileInputs.cache
+C:\Users\wblaw\OneDrive\Desktop\Blake\Blackjack\BlackJack Class Library\BlackJack Class Library\obj\Debug\BlackJack Class Library.dll
+C:\Users\wblaw\OneDrive\Desktop\Blake\Blackjack\BlackJack Class Library\BlackJack Class Library\obj\Debug\BlackJack Class Library.pdb
+C:\Users\wblaw\OneDrive\Desktop\School\Blake\Blackjack\BlackJack Class Library\BlackJack Class Library\bin\Debug\BlackJack Class Library.dll
+C:\Users\wblaw\OneDrive\Desktop\School\Blake\Blackjack\BlackJack Class Library\BlackJack Class Library\bin\Debug\BlackJack Class Library.pdb
+C:\Users\wblaw\OneDrive\Desktop\School\Blake\Blackjack\BlackJack Class Library\BlackJack Class Library\obj\Debug\BlackJack Class Library.csproj.AssemblyReference.cache
+C:\Users\wblaw\OneDrive\Desktop\School\Blake\Blackjack\BlackJack Class Library\BlackJack Class Library\obj\Debug\BlackJack Class Library.csproj.CoreCompileInputs.cache
+C:\Users\wblaw\OneDrive\Desktop\School\Blake\Blackjack\BlackJack Class Library\BlackJack Class Library\obj\Debug\BlackJack Class Library.dll
+C:\Users\wblaw\OneDrive\Desktop\School\Blake\Blackjack\BlackJack Class Library\BlackJack Class Library\obj\Debug\BlackJack Class Library.pdb

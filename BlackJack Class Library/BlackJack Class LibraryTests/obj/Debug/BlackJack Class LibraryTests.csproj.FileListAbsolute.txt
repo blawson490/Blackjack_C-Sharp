@@ -1,0 +1,32 @@
+C:\Users\wblaw\source\repos\BlackJack Class Library\BlackJack Class LibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\wblaw\source\repos\BlackJack Class Library\BlackJack Class LibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\wblaw\source\repos\BlackJack Class Library\BlackJack Class LibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\wblaw\source\repos\BlackJack Class Library\BlackJack Class LibraryTests\bin\Debug\BlackJack Class LibraryTests.dll
+C:\Users\wblaw\source\repos\BlackJack Class Library\BlackJack Class LibraryTests\bin\Debug\BlackJack Class LibraryTests.pdb
+C:\Users\wblaw\source\repos\BlackJack Class Library\BlackJack Class LibraryTests\bin\Debug\BlackJack Class Library.dll
+C:\Users\wblaw\source\repos\BlackJack Class Library\BlackJack Class LibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\wblaw\source\repos\BlackJack Class Library\BlackJack Class LibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\wblaw\source\repos\BlackJack Class Library\BlackJack Class LibraryTests\bin\Debug\BlackJack Class Library.pdb
+C:\Users\wblaw\source\repos\BlackJack Class Library\BlackJack Class LibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\wblaw\source\repos\BlackJack Class Library\BlackJack Class LibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\wblaw\source\repos\BlackJack Class Library\BlackJack Class LibraryTests\obj\Debug\BlackJack Class LibraryTests.csproj.AssemblyReference.cache
+C:\Users\wblaw\source\repos\BlackJack Class Library\BlackJack Class LibraryTests\obj\Debug\BlackJack Class LibraryTests.csproj.CoreCompileInputs.cache
+C:\Users\wblaw\source\repos\BlackJack Class Library\BlackJack Class LibraryTests\obj\Debug\BlackJack Class LibraryTests.csproj.CopyComplete
+C:\Users\wblaw\source\repos\BlackJack Class Library\BlackJack Class LibraryTests\obj\Debug\BlackJack Class LibraryTests.dll
+C:\Users\wblaw\source\repos\BlackJack Class Library\BlackJack Class LibraryTests\obj\Debug\BlackJack Class LibraryTests.pdb
+C:\Users\wblaw\OneDrive\Desktop\Blackjack\BlackJack Class Library\BlackJack Class LibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\wblaw\OneDrive\Desktop\Blackjack\BlackJack Class Library\BlackJack Class LibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\wblaw\OneDrive\Desktop\Blackjack\BlackJack Class Library\BlackJack Class LibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\wblaw\OneDrive\Desktop\Blackjack\BlackJack Class Library\BlackJack Class LibraryTests\bin\Debug\BlackJack Class LibraryTests.dll
+C:\Users\wblaw\OneDrive\Desktop\Blackjack\BlackJack Class Library\BlackJack Class LibraryTests\bin\Debug\BlackJack Class LibraryTests.pdb
+C:\Users\wblaw\OneDrive\Desktop\Blackjack\BlackJack Class Library\BlackJack Class LibraryTests\bin\Debug\BlackJack Class Library.dll
+C:\Users\wblaw\OneDrive\Desktop\Blackjack\BlackJack Class Library\BlackJack Class LibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\wblaw\OneDrive\Desktop\Blackjack\BlackJack Class Library\BlackJack Class LibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\wblaw\OneDrive\Desktop\Blackjack\BlackJack Class Library\BlackJack Class LibraryTests\bin\Debug\BlackJack Class Library.pdb
+C:\Users\wblaw\OneDrive\Desktop\Blackjack\BlackJack Class Library\BlackJack Class LibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\wblaw\OneDrive\Desktop\Blackjack\BlackJack Class Library\BlackJack Class LibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\wblaw\OneDrive\Desktop\Blackjack\BlackJack Class Library\BlackJack Class LibraryTests\obj\Debug\BlackJack Class LibraryTests.csproj.AssemblyReference.cache
+C:\Users\wblaw\OneDrive\Desktop\Blackjack\BlackJack Class Library\BlackJack Class LibraryTests\obj\Debug\BlackJack Class LibraryTests.csproj.CoreCompileInputs.cache
+C:\Users\wblaw\OneDrive\Desktop\Blackjack\BlackJack Class Library\BlackJack Class LibraryTests\obj\Debug\BlackJack Class LibraryTests.csproj.CopyComplete
+C:\Users\wblaw\OneDrive\Desktop\Blackjack\BlackJack Class Library\BlackJack Class LibraryTests\obj\Debug\BlackJack Class LibraryTests.dll
+C:\Users\wblaw\OneDrive\Desktop\Blackjack\BlackJack Class Library\BlackJack Class LibraryTests\obj\Debug\BlackJack Class LibraryTests.pdb
